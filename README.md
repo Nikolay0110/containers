@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tmxs4stc7m6bwsy1?svg=true)](https://ci.appveyor.com/project/Nikolay0110/containers)
+
 # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
