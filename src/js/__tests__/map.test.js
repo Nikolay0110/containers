@@ -12,5 +12,5 @@ test('Проверка выброса ошибки по не известном�
     const map = new ErrorRepository();
     expect(() => {
         map.translate(100);
-    }).toThrowError();
+    }).toThrow();
 });
